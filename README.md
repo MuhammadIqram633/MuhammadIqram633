@@ -1,23 +1,24 @@
 <h1 align="center">Hi, I'm Muhammad Iqram 👋</h1>
-<h3 align="center">Web Development & Designing Intern @ Oasis Infobyte</h3>
+<h3 align="center">Web Development Intern @ Oasis Infobyte</h3>
 
 <p align="center">
-  🌱 Currently learning <b>HTML, CSS & JavaScript</b><br>
-  💻 Building real projects and sharpening my web development skills<br>
-  📫 Open to connect, collaborate, and learn together
+  🌱 Just starting my journey in <b>Web Development</b><br>
+  💻 Learning HTML, CSS & JavaScript through hands-on projects<br>
+  📫 Open to connect, learn, and grow together
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Aspiring Web Developer
-- 🛠️ Currently completing my **Web Development Internship** at **Oasis Infobyte**
-- 📚 Focused on front-end fundamentals — HTML5, CSS3, and JavaScript
+- 🎓 Beginner Web Developer, learning by building
+- 🛠️ Currently doing my **Web Development Internship** at **Oasis Infobyte**
+- 📚 Working through front-end fundamentals — HTML5, CSS3, and JavaScript
 - 🌍 Based in Lahore, Pakistan
+- 🔭 More projects coming soon as I progress through my internship tasks!
 
 ---
 
-### 🔧 Skills
+### 🔧 Skills (Learning)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,13 +27,15 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects So Far
 
 **🩸 [Blood Donation Portal](https://github.com/iqramawanseo/blood-donation-portal)**
-A web platform built to connect blood donors with people in need, making the donation process simpler and more accessible.
+An early project — a simple web page concept for connecting blood donors with people in need.
 
 **🔍 [IQ SEO Tools Free](https://github.com/iqramawanseo/iqseotoolsfree)**
-A collection of free SEO utility tools built to help users analyze and improve their website's search performance.
+A practice project exploring basic SEO-related web tools.
+
+> 📍 More internship projects will be added here soon — follow along as I learn!
 
 ---
 
