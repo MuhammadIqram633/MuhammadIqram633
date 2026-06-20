@@ -40,13 +40,13 @@ A practice project exploring basic SEO-related web tools.
 ---
 
 ### 📊 GitHub Stats
-![Muhammad Iqram's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqramawanseo&show_icons=true&theme=default)
+![Muhammad Iqram's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadIqram633&show_icons=true&theme=default)
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqram-a886a737a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqramawan6333@gmail.com)
 
 ---
 
