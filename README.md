@@ -1,30 +1,64 @@
-<h1 align="center">Hi, I'm Muhammad Iqram 👋</h1>
-<h3 align="center">Aspiring DevOps Engineer & Web Developer | Computer Science Student</h3>
+# Hi there, I'm Muhammad Iqram 👋
 
-<p align="center">
-  <br>
-  Building a strong foundation in Web Development while growing in the world of DevOps and Cloud Computing.
-  <br>
-  Exploring concepts like Full-Stack Web Dev, CI/CD, Docker, Kubernetes, and Linux.
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-iqram-a886a737a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iqramawan6333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+### 🚀 Aspiring DevOps Engineer & Web Developer | CS Student
+
+I am a final-year Computer Science student specializing in **Full-Stack Web Development, DevOps, and Cloud Infrastructure**. I focus on containerizing applications, automating deployment pipelines, and managing scalable environments.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br /><b>Frontend</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux,bash" /><br /><b>SysAdmin</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br /><b>Containers</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions,git" /><br /><b>CI/CD & Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" /><br /><b>Cloud</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIqram633&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIqram633&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### About Me
+### 🎯 Core Focus Areas
 
-- 🎓 Final Year Computer Science student.
-- 💻 Experienced in web development (HTML, CSS, JavaScript) with hands-on internship experience.
-- 🚀 Passionate about automating workflows, deploying web apps, and bridging the gap between development and operations.
-- 🌱 Currently learning DevOps tools, cloud platforms, and modern deployment practices.
-- 💬 Ask me about web development fundamentals or anything related to my ongoing DevOps journey!
-
-### Skills & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- 💻 **Web Development**: Responsive design and interactive web interfaces.
+- 🐳 **Containerization**: Multi-container deployments with Docker and Kubernetes orchestration.
+- ⚙️ **CI/CD Automation**: Building automated pipelines with GitHub Actions.
+- ☁️ **Cloud Infrastructure**: Exploring AWS architecture and Infrastructure as Code.
 
 ---
+
+### 📂 Featured Repositories
+
+* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Oasis Infobyte Web Development internship tasks (Landing page, Portfolio, Temperature Converter).
+* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Web portal for connecting blood donors and recipients.
+* 🛠️ **[iqseotoolsfree](https://github.com/MuhammadIqram633/iqseotoolsfree)** — Web utilities including an image compression tool.
