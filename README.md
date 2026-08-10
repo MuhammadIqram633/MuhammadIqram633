@@ -41,9 +41,12 @@ I am a final-year Computer Science student specializing in **Full-Stack Web Deve
 
 ### 📈 GitHub Statistics
 
+### 📈 Profile Overview & Highlights
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIqram633&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIqram633&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://img.shields.io/badge/Focus-DevOps_%26_Web_Dev-blue?style=for-the-badge&logo=docker" alt="Focus" />
+  <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-success?style=for-the-badge&logo=education" alt="Degree" />
+  <img src="https://img.shields.io/badge/Status-Open_To_Opportunities-orange?style=for-the-badge" alt="Status" />
 </p>
 
 ---
