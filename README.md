@@ -58,7 +58,9 @@ I am a final-year Computer Science student specializing in **DevOps, Cloud Infra
 
 ---
 
-### 📂 Featured Repositories
+### 📂 All Public Repositories
 
-* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Web Development internship task submissions featuring responsive HTML/CSS designs.
-* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Responsive HTML/CSS interface for connecting blood donors and recipients.
+* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Oasis Infobyte Web Development internship task submissions (Landing Page & Portfolio layouts).
+* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Responsive HTML/CSS web interface for connecting blood donors and recipients.
+* 🛠️ **[iqseotoolsfree](https://github.com/MuhammadIqram633/iqseotoolsfree)** — Web utilities including an image compression tool.
+* ⚙️ **[MuhammadIqram633](https://github.com/MuhammadIqram633/MuhammadIqram633)** — Special repository housing this GitHub Profile README.
