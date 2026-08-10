@@ -9,59 +9,56 @@
   </a>
 </p>
 
-### 🚀 Aspiring DevOps Engineer & Web Developer | CS Student
+### 🚀 Aspiring DevOps Engineer & Web Designer | CS Student
 
-I am a final-year Computer Science student specializing in **Full-Stack Web Development, DevOps, and Cloud Infrastructure**. I focus on containerizing applications, automating deployment pipelines, and managing scalable environments.
+I am a final-year Computer Science student specializing in **DevOps, Cloud Infrastructure, and Web Design**. My primary focus is on building automated CI/CD pipelines, containerizing applications with Docker, managing Linux systems, and crafting responsive HTML/CSS web interfaces.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Skills & Tooling
 
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html,css,js" /><br /><b>Frontend</b>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=linux,bash" /><br /><b>SysAdmin</b><br /><sub>Linux & Bash</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux,bash" /><br /><b>SysAdmin</b>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br /><b>Containers</b><br /><sub>Docker & K8s</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br /><b>Containers</b>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions" /><br /><b>CI/CD & Git</b><br /><sub>GitHub Actions</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=githubactions,git" /><br /><b>CI/CD & Git</b>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=aws" /><br /><b>Cloud</b><br /><sub>AWS Basics</sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=aws" /><br /><b>Cloud</b>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html,css" /><br /><b>Web Design</b><br /><sub>HTML5 & CSS3</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Statistics
+### 📚 Core Learning Focus
 
-### 📈 Profile Overview & Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-DevOps_%26_Web_Dev-blue?style=for-the-badge&logo=docker" alt="Focus" />
-  <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-success?style=for-the-badge&logo=education" alt="Degree" />
-  <img src="https://img.shields.io/badge/Status-Open_To_Opportunities-orange?style=for-the-badge" alt="Status" />
-</p>
+- 🐧 **Linux Administration**: Server management, shell automation scripts, and system security.
+- 🐳 **Containerization**: Packaging applications with Docker and managing multi-container setups.
+- ⚙️ **CI/CD Pipelines**: Automating testing and deployment workflows using GitHub Actions.
+- 🎨 **Web Design**: Building responsive web layouts using semantic HTML5 and CSS3.
 
 ---
 
-### 🎯 Core Focus Areas
+### 📈 Profile Highlights
 
-- 💻 **Web Development**: Responsive design and interactive web interfaces.
-- 🐳 **Containerization**: Multi-container deployments with Docker and Kubernetes orchestration.
-- ⚙️ **CI/CD Automation**: Building automated pipelines with GitHub Actions.
-- ☁️ **Cloud Infrastructure**: Exploring AWS architecture and Infrastructure as Code.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-DevOps_%26_Web_Design-blue?style=for-the-badge&logo=docker" alt="Focus" />
+  <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-success?style=for-the-badge&logo=education" alt="Degree" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-orange?style=for-the-badge" alt="Status" />
+</p>
 
 ---
 
 ### 📂 Featured Repositories
 
-* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Oasis Infobyte Web Development internship tasks (Landing page, Portfolio, Temperature Converter).
-* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Web portal for connecting blood donors and recipients.
-* 🛠️ **[iqseotoolsfree](https://github.com/MuhammadIqram633/iqseotoolsfree)** — Web utilities including an image compression tool.
+* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Web Development internship task submissions featuring responsive HTML/CSS designs.
+* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Responsive HTML/CSS interface for connecting blood donors and recipients.
