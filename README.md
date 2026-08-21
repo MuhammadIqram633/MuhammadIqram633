@@ -1,66 +1,78 @@
-# Hi there, I'm Muhammad Iqram 👋
+# Hi, I'm Muhammad Iqram 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-iqram-a886a737a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:iqramawan6333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Computer Science Student | Aspiring DevOps Engineer
 
-### 🚀 Aspiring DevOps Engineer & Web Designer | CS Student
+I'm a Computer Science student interested in **DevOps, Cloud Computing, Linux, and Infrastructure**.
 
-I am a final-year Computer Science student specializing in **DevOps, Cloud Infrastructure, and Web Design**. My primary focus is on building automated CI/CD pipelines, containerizing applications with Docker, managing Linux systems, and crafting responsive HTML/CSS web interfaces.
+I'm currently building my DevOps foundation step by step through hands-on learning and practical projects.
+
+### 🚀 Current Focus
+
+- 🐧 Linux & System Administration
+- 🔧 Git & GitHub
+- 🐳 Docker
+- ☁️ AWS Cloud
+- ⚙️ CI/CD & GitHub Actions
+- 🔐 Cloud & Infrastructure Security
+- 📦 Infrastructure as Code
+- 🌐 Web Technologies
+
+### 🛠️ Skills
+
+**Currently familiar with:**
+- HTML5
+- CSS3
+- Git & GitHub
+- Basic Web Development
+
+**Currently learning:**
+- Linux
+- Bash
+- Docker
+- AWS
+- CI/CD
+- GitHub Actions
+- Cloud & Infrastructure Technologies
+
+### 📚 My Goal
+
+My goal is to become a **Junior DevOps / Cloud Engineer** by developing strong practical skills in:
+
+`Linux → Git → Docker → CI/CD → AWS → Infrastructure as Code → Cloud Security`
+
+I'm focused on learning by **building real projects**, not just collecting certifications.
+
+### 📂 Projects
+
+Here are some of the projects I've worked on:
+
+- 🩸 **Blood Donation Portal** — A responsive web interface designed to connect blood donors and recipients.
+- 🌐 **Web Development Projects** — Practice projects covering HTML, CSS, responsive layouts, and basic frontend development.
+- 🛠️ **SEO Tools** — Web utilities and tools built as part of my web development journey.
+
+More DevOps and cloud-based projects will be added as I continue learning.
+
+### 🎓 Education
+
+**BS Computer Science**
+
+Currently developing my technical foundation and working toward a career in DevOps and Cloud Computing.
+
+### 📈 Learning Journey
+
+I'm continuously improving my skills through:
+
+- Hands-on projects
+- Technical documentation
+- Practical labs
+- Open-source projects
+- Building and deploying applications
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-iqram-a886a737a/)
+- 📧 [Email](mailto:iqramawan6333@gmail.com)
 
 ---
 
-### 🛠️ Core Skills & Tooling
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=linux,bash" /><br /><b>SysAdmin</b><br /><sub>Linux & Bash</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br /><b>Containers</b><br /><sub>Docker & K8s</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions" /><br /><b>CI/CD & Git</b><br /><sub>GitHub Actions</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=aws" /><br /><b>Cloud</b><br /><sub>AWS Basics</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://skillicons.dev/icons?i=html,css" /><br /><b>Web Design</b><br /><sub>HTML5 & CSS3</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📚 Core Learning Focus
-
-- 🐧 **Linux Administration**: Server management, shell automation scripts, and system security.
-- 🐳 **Containerization**: Packaging applications with Docker and managing multi-container setups.
-- ⚙️ **CI/CD Pipelines**: Automating testing and deployment workflows using GitHub Actions.
-- 🎨 **Web Design**: Building responsive web layouts using semantic HTML5 and CSS3.
-
----
-
-### 📈 Profile Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-DevOps_%26_Web_Design-blue?style=for-the-badge&logo=docker" alt="Focus" />
-  <img src="https://img.shields.io/badge/Degree-BS_Computer_Science-success?style=for-the-badge&logo=education" alt="Degree" />
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-orange?style=for-the-badge" alt="Status" />
-</p>
-
----
-
-### 📂 All Public Repositories
-
-* 🌐 **[OIBSIP](https://github.com/MuhammadIqram633/OIBSIP)** — Oasis Infobyte Web Development internship task submissions (Landing Page & Portfolio layouts).
-* 🩸 **[blood-donation-portal](https://github.com/MuhammadIqram633/blood-donation-portal)** — Responsive HTML/CSS web interface for connecting blood donors and recipients.
-* 🛠️ **[iqseotoolsfree](https://github.com/MuhammadIqram633/iqseotoolsfree)** — Web utilities including an image compression tool.
-* ⚙️ **[MuhammadIqram633](https://github.com/MuhammadIqram633/MuhammadIqram633)** — Special repository housing this GitHub Profile README.
+⭐ Thanks for visiting my profile!
