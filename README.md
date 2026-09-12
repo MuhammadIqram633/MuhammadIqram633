@@ -49,8 +49,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIqram633&show_icons=true&theme=radical&hide_border=true" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIqram633&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIqram633&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIqram633&layout=compact&theme=dark" height="150" alt="Top Languages" />
 </div>
 
 ---
