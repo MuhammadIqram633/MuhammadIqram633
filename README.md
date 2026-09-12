@@ -41,7 +41,7 @@
 | Project | Description | Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **PowerUp Landing Page** | Fully responsive, mobile-first landing page built with semantic markup and Flexbox. | `HTML5` `CSS3` `Flexbox` | [Live Preview](https://muhammadiqram633.github.io/OIBSIP/WebDev-L1-LandingPage/) |
-| **Personal Portfolio** | Developer portfolio showcasing technical skills, projects, and contact avenues. | `HTML5` `CSS3` `JavaScript` | [Live Preview](https://muhammadiqram633.github.io/Personal-Portfolio/) |
+| **Personal Portfolio** | Developer portfolio showcasing technical skills, projects, and contact avenues. | `HTML5` `CSS3` `JavaScript` | [Live Preview](https://muhammadiqram633.github.io/OIBSIP/WebDev-L1-Portfolio/) |
 | **Temperature Converter** | Utility application converting temperatures across Celsius, Fahrenheit, and Kelvin in real-time. | `HTML5` `CSS3` `Vanilla JS` | [Live Preview](https://muhammadiqram633.github.io/Temperature-Converter/) |
 
 ---
