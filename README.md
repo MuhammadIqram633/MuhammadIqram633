@@ -11,10 +11,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing BS in Computer Science at **NFC-IET Multan**.
-- 💻 **Focus:** Crafting clean, responsive, and mobile-first user interfaces.
-- 🚀 **Currently Learning:** Modern JavaScript (ES6+), Asynchronous JS, and preparing for **React.js**.
-- 🎯 **Goal:** Transitioning into a robust **Full-Stack Developer** by building real-world web applications.
-- 🛠️ **Experience:** Completed Front-End Web Development internship at **Oasis Infobyte**.
+- 💻 **Focus:** Crafting clean, responsive, and mobile-first web interfaces.
+- 🚀 **Currently Building:** Expanding core web foundations through continuous daily implementation.
+- 🎯 **Goal:** Transitioning into a robust **Full-Stack Developer** by shipping practical, scalable projects.
+- 🛠️ **Experience:** Front-End Web Development coursework & technical projects.
 
 ---
 
@@ -36,16 +36,11 @@
 
 ---
 
-### 📌 Featured Web Projects
+### 📌 Featured Repositories & Projects
 
-| Project | Description | Stack | Live Demo |
+| Project | Description | Stack | Live Preview |
 | :--- | :--- | :--- | :--- |
-| **PowerUp Landing Page** | Fully responsive, mobile-first landing page built with semantic markup and Flexbox. | `HTML5` `CSS3` `Flexbox` | [Live Preview](https://muhammadiqram633.github.io/OIBSIP/WebDev-L1-LandingPage/) |
-| **Personal Portfolio** | Developer portfolio showcasing technical skills, projects, and contact avenues. | `HTML5` `CSS3` `JavaScript` | [Live Preview](https://muhammadiqram633.github.io/OIBSIP/WebDev-L1-Portfolio/) |
-| **Temperature Converter** | Utility application converting temperatures across Celsius, Fahrenheit, and Kelvin in real-time. | `HTML5` `CSS3` `Vanilla JS` | [Live Preview](https://muhammadiqram633.github.io/OIBSIP/WebDev-L1-TemperatureConverter/) |
-
----
-
+| **HTML Course & Daily Practice** | Comprehensive single-page HTML architecture with daily visual progress logs and screenshots. | `HTML5` `Semantic Markup` | [View Project](https://github.com/MuhammadIqram633/HTML-COURSE) |
 
 ---
 
