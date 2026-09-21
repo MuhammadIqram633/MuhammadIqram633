@@ -22,7 +22,8 @@
 | Project | Tech Stack | Links |
 | :--- | :--- | :--- |
 | **A Little Taco Shop** | HTML, 1 percent CSS| [Live Demo](https://muhammadiqram633.github.io/html-taco-shop/) • [Code](https://github.com/MuhammadIqram633/html-taco-shop) |
-| **Price Tracker** | JavaScript, REST API | [Live Demo](https://your-demo-link.com) • [Code](https://github.com/username/repo) |
+| **Intership Project For Practice** | HTML,CSS,20 Percent Javascript| [Live Demo](https://muhammadiqram633.github.io/Bean_and_Brew_Responsive_Website/)
+ • [Code](https://github.com/MuhammadIqram633/Bean_and_Brew_Responsive_Website) |
 
 
 
