@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Iqram</h1>
-<h3 align="center">Front-End Developer & BSCS Student | Aspiring Full-Stack Engineer</h3>
+<h3 align="center">Aspiring Front-End Developer  | Aspiring Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-iqram-a886a737a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
