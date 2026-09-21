@@ -17,6 +17,16 @@
 - 🛠️ **Journey:** Recent Complete HTML Course ( 20-September-2026) And Also Create a Pure Html Project.
 
 ---
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **A Little Taco Shop** | HTML, 1 percent CSS| [Live Demo](https://muhammadiqram633.github.io/html-taco-shop/) • [Code](https://github.com/MuhammadIqram633/html-taco-shop) |
+| **Price Tracker** | JavaScript, REST API | [Live Demo](https://your-demo-link.com) • [Code](https://github.com/username/repo) |
+
+
+
+
 
 ### 🛠️ Tech Stack & Tools
 
