@@ -14,7 +14,7 @@
 - 💻 **Focus:** Crafting clean, responsive, and mobile-first web interfaces.
 - 🚀 **Currently Building:** Expanding core web foundations through daily hands-on implementation.
 - 🎯 **Goal:** Transitioning into a robust **Full-Stack Developer** by building practical, scalable applications.
-- 🛠️ **Completion:** Recent Complete HTML Course ( 20-September-2026) And Also Create a Pure Html Project.
+- 🛠️ **Journey** Recent Complete HTML Course ( 20-September-2026) And Also Create a Pure Html Project.
 
 ---
 
