@@ -15,7 +15,7 @@
 - 🚀 **Currently Building:** Expanding core web foundations through daily hands-on implementation.
 - 🎯 **Goal:** Transitioning into a robust **Full-Stack Developer** by building practical, scalable applications.
 - 🛠️ **Journey:** Recent Complete HTML Course ( 20-September-2026) And Also Create a Pure Html Project.
-      • CSS Starts From(22-september-2026)         
+          
 
 ---
 ### 🚀 Featured Projects
