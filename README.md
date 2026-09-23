@@ -52,7 +52,7 @@ Responsive restaurant landing page
 ### Blood Donation Portal
 Community platform for blood donors and recipients
 - **Tech:** React, JavaScript
-- **Links:** [Code](https://github.com/MuhammadIqram633/blood-donation-portal)
+- **Links:** [Live](https://muhammadiqram633.github.io/blood-donation-portal/)[Code](https://github.com/MuhammadIqram633/blood-donation-portal)
 
 ### Inequality Project
 Data visualization platform for social insights
