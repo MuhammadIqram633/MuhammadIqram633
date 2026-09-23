@@ -12,7 +12,7 @@ I'm passionate about creating clean, responsive web interfaces. Currently studyi
 - 💻 **Specialization** | Frontend Development with React
 - 🚀 **Currently Learning** | Backend (Node.js, Express, MongoDB)
 - 📍 **Based in** | Pakistan
-- 📧 **Reach me** | muhammadiqram633@gmail.com
+- 📧 **Reach me** | iqramawan6333@gmail.com
 
 ---
 
