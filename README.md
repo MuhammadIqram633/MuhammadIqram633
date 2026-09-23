@@ -42,7 +42,7 @@ Restaurant e-commerce website with interactive menu and responsive design
 ### Bean and Brew
 Modern coffee shop website with product filtering
 - **Tech:** HTML5, CSS3, JavaScript
-- **Links:** [Live](#) | [Code](https://github.com/MuhammadIqram633)
+- **Links:** [Live](#) | [Code](https://github.com/MuhammadIqram633/Bean_and_Brew_Responsive_Website)
 
 ### Taco Shop
 Responsive restaurant landing page
