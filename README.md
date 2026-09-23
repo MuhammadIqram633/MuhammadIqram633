@@ -1,52 +1,95 @@
-<h1 align="center">Hi 👋, I'm Muhammad Iqram</h1>
-<h3 align="center">Aspiring Front-End Developer  | Aspiring Full-Stack Engineer</h3>
+# Hi 👋, I'm Muhammad Iqram
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-iqram-a886a737a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:iqramawan6333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**Frontend Developer | Aspiring Full-Stack | UI/UX Enthusiast**
+
+Crafting clean, responsive, and user-centric web interfaces. Passionate about creating beautiful experiences with modern frontend technologies.
 
 ---
 
-### 👨‍💻 About Me
+## 🎯 About Me
 
-- 🎓 **Education:** Pursuing BS in Computer Science at **NFC-IET Multan**.
-- 💻 **Focus:** Crafting clean, responsive, and mobile-first web interfaces.
-- 🚀 **Currently Building:** Expanding core web foundations through daily hands-on implementation.
-- 🎯 **Goal:** Transitioning into a robust **Full-Stack Developer** by building practical, scalable applications.
-- 🛠️ **Journey:** Recent Complete HTML Course ( 20-September-2026) And Also Create a Pure Html Project.
-          
+I'm a **Frontend Developer** currently pursuing my **BS in Computer Science at NFC-IET Multan**. I specialize in building responsive, modern user interfaces with a strong focus on UI/UX design and clean code. Actively learning backend technologies to grow as a full-stack developer.
 
----
-### 🚀 Featured Projects
+- 💻 **Core Skills**: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- 🎨 **Focus**: Responsive UI design, user experience, frontend architecture
+- 📚 **Learning**: Node.js, Express.js, MongoDB (backend stack)
+- 🎓 **Education**: BS Computer Science, NFC-IET Multan
+- 🚀 **Goal**: Becoming a well-rounded Full-Stack Developer
+- 📍 **Location**: Pakistan
 
-| Project | Tech Stack | Links |
-| :--- | :--- | :--- |
-| **A Little Taco Shop** | HTML, 1 percent CSS| [Live Demo](https://muhammadiqram633.github.io/html-taco-shop/) • [Code](https://github.com/MuhammadIqram633/html-taco-shop) |
-| **Intership Project** | HTML,CSS, 20 Percent JS| [Live Demo](https://muhammadiqram633.github.io/Bean_and_Brew_Responsive_Website/)• [Code](https://github.com/MuhammadIqram633/Bean_and_Brew_Responsive_Website) |
+### What I Do
 
-
-
-
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Developer Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+- **Frontend Development**: Creating clean, responsive UIs with React and vanilla JavaScript
+- **UI/UX Design**: Crafting intuitive user interfaces with Tailwind CSS
+- **Web Fundamentals**: Mastering HTML5, CSS3, and JavaScript best practices
+- **Learning Backend**: Building foundational knowledge in Node.js and Express
 
 ---
 
-<p align="center">
-  <i>"Consistency in code turns concepts into real-world applications."</i>
-</p>
+## 🛠️ Tech Stack & Tools
+
+**Languages & Core**
+- JavaScript (ES6+) • HTML5 • CSS3
+
+**Frontend (Strong)**
+- React • Tailwind CSS • Responsive Design • CSS Frameworks
+
+**Backend (Learning)**
+- Node.js • Express.js • MongoDB
+
+**Developer Tools**
+- Git • GitHub • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **A Little Taco Shop** | E-commerce restaurant website with responsive design and interactive menu | React • Tailwind CSS • JavaScript | [Live](https://example.com) • [Code](#) |
+| **Bean and Brew** | Modern coffee shop website with product filtering and smooth UX | HTML5 • CSS3 • JavaScript | [Live](#) • [Code](#) |
+| **Taco Shop** | Responsive restaurant landing page with mobile-first design approach | HTML5 • CSS3 • JavaScript | [Live](#) • [Code](#) |
+| **Blood Donation Portal** | Community platform UI for connecting blood donors and recipients | React • JavaScript | [Code](#) |
+| **Inequality Project** | Educational data visualization project showcasing social insights | React • JavaScript | [Live](#) • [Code](#) |
+
+---
+
+## 📊 GitHub Stats
+
+```
+104 contributions in the last year
+8 repositories created
+7 repositories contributed to
+```
+
+**Most Active**: September 2024
+
+---
+
+## 📫 Get in Touch
+
+- **Email**: muhammadiqram633@gmail.com
+- **GitHub**: [@MuhammadIqram633](https://github.com/MuhammadIqram633)
+- **LinkedIn**: [linkedin.com/in/muhammadiqram](#)
+
+---
+
+## 💡 Current Focus
+
+- 🎨 Mastering advanced React patterns and component architecture
+- 📱 Creating mobile-responsive designs with modern CSS
+- 🔗 Learning backend fundamentals (Node.js, Express, MongoDB)
+- 🚀 Building full-stack projects to bridge frontend & backend
+- 📚 Writing cleaner, more maintainable code
+
+---
+
+## 📈 Development Philosophy
+
+> User experience first. Clean code always. Every project is a learning opportunity.
+
+I believe in writing code that is not just functional, but readable and maintainable. My focus is on creating interfaces that users love while continuously expanding my skills into full-stack development. I'm committed to learning, growing, and building better products every day.
+
+---
+
+*Last updated: September 2024*
