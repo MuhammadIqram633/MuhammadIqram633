@@ -79,7 +79,7 @@ Data visualization platform for social insights
 
 - **GitHub:** [@MuhammadIqram633](https://github.com/MuhammadIqram633)
 - **Email:** iqramawan6333@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/muhammad-iqram-a886a737a](#)
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-iqram-a886a737a](https://www.linkedin.com/in/muhammad-iqram-a886a737a)
 
 Open to freelance projects and internship opportunities!
 
