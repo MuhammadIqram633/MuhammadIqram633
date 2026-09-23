@@ -34,17 +34,13 @@ I'm passionate about creating clean, responsive web interfaces. Currently studyi
 
 ## 💼 Featured Projects
 
-### A Little Taco Shop
-Restaurant e-commerce website with interactive menu and responsive design
-- **Tech:** React, Tailwind CSS, JavaScript
-- **Links:** [Live](#) | [Code](https://github.com/MuhammadIqram633/html-taco-shop)
 
 ### Bean and Brew
 Modern coffee shop website with product filtering
 - **Tech:** HTML5, CSS3, JavaScript
 - **Links:** [Live](https://muhammadiqram633.github.io/Bean_and_Brew_Responsive_Website/) | [Code](https://github.com/MuhammadIqram633/Bean_and_Brew_Responsive_Website)
 
-### Taco Shop
+### A Little Taco Shop
 Responsive restaurant landing page
 - **Tech:** HTML5, CSS3, JavaScript
 - **Links:** [Live]( https://muhammadiqram633.github.io/html-taco-shop/) | [Code](https://github.com/MuhammadIqram633)
